@@ -8,6 +8,7 @@ public class CensoPoblacion {
         // 1. Inserción (put)
         censo.put("1111A", "Ana López");
         censo.put("2222B", "Carlos Ruiz");
+        censo.put("3333C", "Alfonso Hueso");
 
         // Sobrescritura si la clave existe
         censo.put("1111A", "Ana López García");

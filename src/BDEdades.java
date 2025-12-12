@@ -13,7 +13,6 @@ public class BDEdades {
         int acu=0; int menor=Integer.MAX_VALUE;
         String nombreMenor="";
         for(Map.Entry<String, Integer> pareja: nombreEdad.entrySet()){
-            System.out.printf(pareja.getKey());
             acu+=pareja.getValue();
             if(pareja.getValue()<menor){
                 menor = pareja.getValue();

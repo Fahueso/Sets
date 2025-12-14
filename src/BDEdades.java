@@ -23,3 +23,4 @@ public class BDEdades {
         System.out.println("El más joven es " + nombreMenor + " con " + menor);
     }
 }
+

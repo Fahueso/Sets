@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
-
+//prueba
 public class BDEdades {
     public static void main(String[] args) {
         HashMap<String,Integer> nombreEdad = new HashMap<>();
